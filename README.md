@@ -11,8 +11,7 @@
 </ul><ul>
 <li>🔄 Otomatik buton gizleme: Kullanıcı deneyimi için butonlar otomatik gizlenir.</li>
 </ul><h2>Screenshots</h2>
-
-<h5>Steps</h5><ul>
+<hr><p><img src="https://github.com/horizon10/Video_player_app/blob/master/3789e925-c431-430d-9b9a-d61d41cbcbf4.jpg" alt=""></p><p><img src="https://github.com/horizon10/Video_player_app/blob/master/53ad6556-43f2-428b-8f70-4e06f4771597.jpg" alt=""></p><h5>Steps</h5><ul>
 <li>Projeyi klonlayın</li>
 </ul><ul>
 <li>git clone https://github.com/kullanici/video-oynatici.git</li>
