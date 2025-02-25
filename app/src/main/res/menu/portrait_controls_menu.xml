@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_speed"
+        android:title="Playback Speed"
+        android:icon="@drawable/ic_speed"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_rotation_lock"
+        android:title="Rotation Lock"
+        android:icon="@drawable/ic_screen_rotation"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_lock"
+        android:title="Lock Controls"
+        android:icon="@drawable/ic_unlocked"
+        app:showAsAction="never" />
+</menu>

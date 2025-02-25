@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="text_color">#212121</color>
+    <color name="hint_color">#757575</color>
+    <color name="button_color">#6200EE</color>
+    <color name="button_pressed_color">#3700B3</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <!-- Mavi -->
+    <color name="colorPrimaryDark">#1976D2</color>   <!-- Koyu Mavi -->
+    <color name="colorPrimaryDarker">#0D47A1</color> <!-- Daha Koyu Mavi -->
+    <color name="colorAccent">#FF4081</color>        <!-- Pembe Aksan -->
+    <color name="colorAccentDark">#D81B60</color>    <!-- Koyu Pembe Aksan -->
+
+    <!-- Açık Tema Renkleri -->
+    <color name="background_light">#FAFAFA</color>        <!-- Hemen Hemen Beyaz -->
+    <color name="card_background_light">#FFFFFF</color>   <!-- Beyaz -->
+    <color name="text_primary_light">#212121</color>      <!-- Siyaha Yakın -->
+    <color name="text_secondary_light">#757575</color>    <!-- Gri -->
+    <color name="divider_light">#BDBDBD</color>           <!-- Açık Gri -->
+
+    <!-- Karanlık Tema Renkleri -->
+    <color name="background_dark">#121212</color>         <!-- Karanlık Arka Plan -->
+    <color name="card_background_dark">#1E1E1E</color>    <!-- Kart Arkaplanı -->
+    <color name="text_primary_dark">#E0E0E0</color>       <!-- Açık Gri Text -->
+    <color name="text_secondary_dark">#B0B0B0</color>     <!-- Orta Gri Text -->
+    <color name="divider_dark">#454545</color>
+    <color name="colorPrimary">#448AFF</color>
+</resources>
